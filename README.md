@@ -1,1 +1,1 @@
-Datasets (proteomics) worthy of uploading
+Datasets (mostly proteomic) worthy of uploading
